@@ -15,7 +15,7 @@
 # 👩‍💻 À propos de moi
 
 Passionnée par l’Intelligence Artificielle et les technologies innovantes, je poursuis actuellement un Master 1 en Intelligence Artificielle à l’Université de Toulouse.  
-Je m’intéresse particulièrement au **Natural Language Processing (NLP)**, à la **Computer Vision**, au **Deep Learning**, ainsi qu’aux systèmes intelligents appliqués à la robotique, la santé et l’espace.
+Je m’intéresse particulièrement au **Traitement de données (BIG DATA) et au **Natural Language Processing (NLP)**, à la **Computer Vision (Robotique)**, au **Deep Learning**, ainsi qu’aux systèmes intelligents appliqués à la robotique, la santé et l’espace.
 
 J’aime concevoir des solutions IA capables de transformer des données complexes en outils utiles et intelligents.  
 Curieuse et polyvalente, j’aime travailler aussi bien sur la recherche que sur des projets pratiques mêlant IA, Data Engineering et développement logiciel.
