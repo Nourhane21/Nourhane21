@@ -162,7 +162,7 @@ Analyse de données environnementales pour prédire la vivabilité d’un lieu e
 
 ---
 
-### 🎬 Annotation Automatique de Corpus Cinématographiques
+### 🎬 Annotation Automatique de Corpus Cinématographiques (Stage)
 Projet NLP autour :
 - du traitement de corpus historiques,
 - de l’annotation automatique,
@@ -171,7 +171,7 @@ Projet NLP autour :
 
 ---
 
-### 📡 Détection et Gestion d’Objets Connectés
+### 📡 Détection et Gestion d’Objets Connectés (Stage)
 Développement de systèmes intelligents capables :
 - de détecter des objets connectés,
 - d’analyser leurs données,
